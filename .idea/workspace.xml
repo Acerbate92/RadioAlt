@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e51aa27-e977-4331-9c0b-225bf2ba1754" name="Changes" comment="" />
+    <list default="true" id="4e51aa27-e977-4331-9c0b-225bf2ba1754" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewRadioTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RadioTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
